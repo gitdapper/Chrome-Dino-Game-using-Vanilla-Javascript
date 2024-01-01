@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.boardContainer{
+    background-color:" #FFF";
+    border-bottom: 1px solid black;
+}
